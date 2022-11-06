@@ -1,16 +1,203 @@
-#EXTM3U:
-#EXTINF:-1 tvg-id=»SIMPSONTV»
-https://usher.ttvnw.net/api/channel/hls/fileld019.m3u8?allow_source=true&fast_bread=true&p=615480&play_session_id=153821a0df04331543414372cb9093a2&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=17537f7331665931f612444cbfa241f974283849&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22fileld019%22%2C%22channel_id%22%3A809977292%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22fe07638f0eac94c7%22%2C%22expires%22%3A1667295222%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.56.118.197%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.15.0
-#EXTINF:-1 tvg-id=»SPACE»
-https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CvIEbADc7SzgVSAX69PbnZ0LqCRvI_QjqAo_PC8onL-n8mehn9BF4rvzFrtgemQIDYth9BWBhPtkJKofmH0DaVeE3Iq2DsXU2k45H_7fRcqKcKMma39CZXqvAJUQQCvHcYBaEzKQcFrRSI8gYv_Z839NCkWMIigwtpWDekYkzPWUncz7C7SGvGq8czHRdWQEvNRVXvhROPzW_PE1kJYaa26WD2aH2YcmaBBS649hStOFEeBuKVbO3M2CZmfXPQkhPjZ53TWomZ1E-p9sM51UGnVCp4Wgf6k-Wng4dQT2ZBkNQME2oRIMIay9Kwv5Sk0P2H0w2EyPV95Nysxgu-UnXtb1IWqYmJ1xlSRhnC7L7K0ptBBjN4j8bTMuEozHcKuScD40eANd9tiR0FAwwTwXrpKMoMyfl4dPEnZjpSV7F0JrbVRCKJKpFLoXG56VKAQJZ_vKjsUGXue_sW3IwGoHCpZgZZY1DksqAqVVVOMCMSb_lmihZNfvneUiiJsnOdz6ujcgu4kUxHTvYROvCtGxwq3SMelAKd8XjN3fX7yvH5rYHDAPXGctcVAL8JCRwfEMuO9X_15n6fJDKFH5kfqDTdsqupTqP8KPLpZ61bQL5r0JJCTKW5J08atI2mXaG7ZCzys6ureedJp68yqwStiQkPgXrqolXwieKTQGRDFC4cAumHCcufOt0I1U7IK07lHxiIP4FtERQPmwpDnf8rRmlnozlcGd9h6otIdSZNVc3ut9GHDP2t6bDUTrEGoY4VCeQwO19_3X1kMWVOpRck4G6ufKJGEspDhEjbVi9naZQ3vZdfafo4PUanPZomwl2GryYWU4PdsaDDndPj8LxGdjsr5oCyABKglldS13ZXN0LTIwhwU.m3u8
-#EXTINF:-1 tvg-id=»CINEMAX»
-https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CvIE18Cm5zL6_-Q06jnsPj7UH68WDwkMrKEwAXiS2rIswCtpq_Fph0ytUGE2YSBhg9-7CU_aX1aQjulhN6URxczlIlnl-MxM8pFAun3DiGOIGsL5h-p2eb9Cwb-1Iek8316NL03o_iCzizaPM76-b3Owyf6yh_MLTZFzigcTTMOkWPec3TNAu5XCpxFGu4OMxa1ofhVDzGLkE1hwUvoV7fm4Ex-ZGCQiSeX48zBADdKBRTbKNem1-e8YVs4NUPzmepAqManUxifIjp-RW9nFq1NuQzxwed11knaGBi9vYPFdekzJCrKCTLG1wT-8w6uwOPOYa0pm0l7Q0K0CeezeAbxt4Id_RvWdsfIuIYKO33muVOe9pssGw5DBCLLHIIy6qvsU-m6r2g9rJqKjLr35yqC9QTwE3eDky90Oi_RK2vTEHhZS3Tmquw3K6PI3y77fC4uObqoIrVzP5xKcB1No0zTA1XAmok3Wuc72nh4klJNa0eYgS6ZF3OI5ed1Qr-CHjBL7gEjv6QCgQ4ZlM6xY1YXtnAOYjWhtkjIaQ3lgKB_1x5PN3ngOoQAIKl-5fhb4dkl9x2ZJebrG67v8V6bFQmtGJTvJzciS723u9Gpaf9ukdw_IzSzAoniJeb1Fm3cGveFuEp5JwcJOTE5pbFywN6XLpi3OmN5wbefEi8Il2O4B8a4pQQd7V1uNjNPCk6BxrFLb2voUopm0a7osiaYwIWvR48T1L71SfEYqKgXyP57k0AzaQW7Pagn5WMgvbBaaPk3O_sjwe3FewdyG8d3HfSWue4cDeCmdcE7CTKjjs62KZr4PBBAyPyMoVyRykpDNqTIOp5caDMECr23bBrGZLhqpSCABKglldS13ZXN0LTIwhwU.m3u8
-#EXTINF:-1 tvg-id=»WARNERTV»
-https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/Cu8Ef4kW1TG2CdkAe2Ah2Gozun5g-QX5Mi7GqpsOWQF42vVJlQfGdy3kbF9rs4umK-ofLexfsS-hTjYE4Ac2M5VDcLRiEBgoaW1qXNvqSr6WK4SJ09L1WR39DiW-6WktQLCKrHS2lNehJ1oNHqJAyQ4fhayLwJso-zhLKEne_INjG76VEUUh-lbSqSsnFk-yf__XP9PLg_L2GDn_4LBFtASw5qZSpSY7ykea0dlCor2tHhKg9PYlLPzC4VDjtV2iH_4l80JlU9w_b244tCU_Q6JMO1fScGche_D2qLgKXD-CKMSFkfgktS3x7Iz7uAIsUwMy7jFXliFni_PUvqqWHXQOqiZXUhi8-rOpsAY9_cQh-J2CIEgVgtB2x_aOrRXzBcUTIxD4kVRLi4GQ0VzWqJcE5PhfNvfm8ckiG_l94YnL1NF_zFT9xspwdPpoCwE0_ZejESscNZHu06L_8WdfJRPoJua_HKi9jWD1KGiAQe_SfIClbheBTGjGyYJ505UPlcEFpZMeJWEnaR_X_wnAxFySGqwJMiSC3mC1iNJ3vSklse4C7C-CQCM-EdxKNDZXtM1KzJ-B5EoSlred-8zdmOlMM8thS9rI8bYFpglQ71zajo3XtW5jGBDk8Fs8bIydExKTSoBnvayRqcsRGPyiuuIThGpmPgiRinT0G07u-uVzDOoygHZ2f5R83L2Q0ERag1_xzhvdpZbay60w_ctVxm1TbLVirs1B7CayBCl5IkeUPkJvq5zDUJu_ePLsnnIF_3IAVa0AJJCxY57tjh_Q4fxcGrVHlTJ_n1Eu7uTzVti31p_nbYGQW-oyfgsS_j_ge4YaDFWm-D7x3U4XffyZOCABKglldS13ZXN0LTIwhwU.m3u8
-#EXTINF:-1 tvg-id=»FOX»
-https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CvUEM_HV8yEA2FarXalj83LHf0YTBJns9BcvTaCwTtLQnRnxDYHyQLpxSMLHBsb7R1b6sFe8sjCmoz3aTHACDrqOhEuvWo39nyuVt9bAGDDvvjnyy40UtIn5OaHlHcxGqlcV0jkNYhh7hziV-3HafUQfvPhm6WhypPJqEC0qRh4I3jWD5BDqdjSG8ki4EXWyltXP7FmuNvY01mrS-6oewpcd44PMKI61CoSkW5fnuEs-AZQMeP1Vu2I6nctzEWHGSJ_r-BweFD_nlmwu9VHFmYgKFTivU9TpqsF1j4KE55x9fgj0KcMCGaLNBDXsEzn98LfyNw4Qxr8hKUjDMUfuMwC6_7T0cQNHyuKdBr3aQJuUaNo2VSHa2YHUJ43oIIj_5Y0qiyb9bNAiYPbwyf2xn7cDNPq9-12RbkcQDv3bDNcZeL_gOTPgH2lAZ2WHNk8YhhKBly59gNx0kgBMw33__8EOL22NM6Gsms9FFvpal3VPnKizkt4FRAVM6HJ_19ihNEwGUP0_MGA9DJJG8We-ZeNhacC_AYmg89a2q_XOXgwG2Ukr3R27HNVZDkYmWAam-ackIrXc6gkq3J0tStYnhirS7gUsnS7Bz-E_CM8FGEYCXd5GAmqEclQC0LSMIQdY1UCUfj_KD3iq3DyDyeYDIBuBiNLsOFcWGNBV3bo71HqeOGXpt6KpfjX16sZ_V7Aiii3jHf06Ms_WdfigWaw4TpL3eABM_0smYvPz3H6FdD-fzb2wfXlB3HCISpWxAASHzqiuTFBusQ2zPqcdXjk-DoRMFeYuvakAMIFmCuqjoK4oC5PORdUa1Bg16P4TgFI82iGf3ytEFz8aDISf_9H2yeZDryFxgCABKglldS13ZXN0LTIwhwU.m3u8
-#EXTINF:-1 tvg-id=»DISCOVERY»
-https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/Cu4EiIZbtqizO6mR53eB5wLa09inr50hC_myl9HlbdRBrzIKLJA66H5DtpA6ZTN8CxAIM1tip9JfW8s5aSlNCjTss55pbd94G4LjcBO8zldanEnSZ6S-8UrzNPY9JidiZVoi0HixZUeBxAGF6SOeDgHEAXVnSSY8gCe-M_xN6SEilgPhqyUPT_uYpGsvZcM90fLGoqxWFONzg7W3qYxcjPntvlqdT-cxuixLweZ6ukbUtW5fPhFi-1KeGjrzoVFjH8AUkX-zrqxKp032b0h9ybkyKxh3mFq5ollYocDEFqT143IAoij2-OU9nu47aZ67wjrXbVLKLqKxSQxR5T4GclNZupxmjpSDlM74WN8IYE7jZkqTw4hb5hKPI_lcCz7ql5oF3tD9A8uk2c9uO-taajxSOI7ODPy4PyjfL6IAqpjoUvQKp8bgPouzn-moHY8fXfIn2rhIt6VflujgSbVdhgmlMN03YAC9HQYGfEVl_puuq69kPWwyRGbrMENrPLT1AebPrOtCDoDhai59hzJ9iEybbNgAM-cINCmhLzMPpgDna9AgwgecKf23rg0tNYm8-fOF483ELJrgFmUq2Y_F37ZWItA0dZBVf26DKjOKoQSvY_aDaN64jMSoovV8BvreJbCCNg4JMjyRARZ9Q-qKsMBKjjeuhpQcP0Aj1ckUN_E8C0GRy5EVSTryzTq2U6Pnbtf3abeoRv6dvZjZSRTj4-m6w1WaXKL1AmRSZJSfdWgqnBTtLIU68mrSAxLVehKbYEgFSGz_LmSPujtsxQK661g7tDz3oCN_zTavzFpvvuR7akEEWpkodp1GkuKmrkzTOBoMB3LSL7rDjwfTk2EWIAEqCWV1LXdlc3QtMjCHBQ.m3u8
-
+#EXTM3U
+#EXTINF:0 tvg-country="AF;BB;BR;KH;CA;CL;FI;HK;ID;IR;IL" tvg-logo="https://i.imgur.com/jA8JD2X.png" group-title="Sport",BEK TV Sports West (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;DZ;AM;AU;BB;CL;CO;DK;IQ;OM" tvg-logo="https://i.imgur.com/pQ0QGGl.jpg" group-title="Sport",Bahrain Sports 1 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;DZ;AM;BH;BB;BG;KH;CL;DK;GR;GB;VN" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain-sports-1-bh.png" group-title="Sport",Bahrain Sports 2 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/7mBkLKV.png" group-title="Sport",Best Cable Sports Perú (720p) [Not 24/7]
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;DZ;AU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/FreeSportsLogo.jpg/512px-FreeSportsLogo.jpg" group-title="Sport",FreeSports (1080p) [Not 24/7]
+https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;CL;FI" tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="Sport",J Sports 1 (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;CL;FI" tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="Sport",J Sports 2 (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;CL;FI" tvg-logo="https://i.imgur.com/xdI361E.png" group-title="Sport",J Sports 3 (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;DZ;BH;BR;BG;CL;CO;DK;FR;MX;MN;NO;AE" tvg-logo="https://i.imgur.com/fBcyZNL.png" group-title="Sport",J Sports 4 (720p) [Not 24/7]
+http://cdnv148.cloudrsst.com:1935/jptv/jsports1_720/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ksa-sports-1-sa.png" group-title="Sport",KSA Sports 1 (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/9.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ksa-sports-2-sa.png" group-title="Sport",KSA Sports 2 (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/10.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnb-sport-mn.png" group-title="Sport",MNB Sport
+https://live.mnb.mn/live/mnb_sport.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;BB;BR;KH;CA;CL;FI;HK;ID;IR;IL" tvg-logo="" group-title="Sport",Mav TV Motorsports Network
+https://mavtv-mavtvglobal-1-se.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;DZ;AM;BH;BB;BG;KH;CL;DK;GR;SE;GB;VN" tvg-logo="" group-title="Sport",Mav TV Motorsports Network
+https://mavtv-mavtvglobal-1-nz.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;DZ;AM;BH;BB;BG;KH;CL;DK;GR;SE;GB;VN" tvg-logo="" group-title="Sport",Mav Tv Motorsports Network
+https://mavtv-mavtvglobal-1-nl.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;DZ;AM;AU;BB;CL;CO;DK;HU;IQ;OM;GB" tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="Sport",Midpen Media Center Youth Education and Sports Channel 28 (720p)
+https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png" group-title="Sport",Nittele G+ Sports & News (540p)
+https://cdn.us195.jpnettv.live/jptv/japan_tv_G_540/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;BH;BB;KH;GE;HK;IS;IL;OM" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png" group-title="Sport",Nittele G+ Sports & News (540p)
+https://cdnv148.cloudrsst.com/jptv/japan_tv_G_540/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;DZ;AM;AU;BB;CL;CO;DK;HU;IQ;OM;GB" tvg-logo="" group-title="Sport",Sportoutdoor.tv
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;BB;BR;BG;KH;CA;CL;FI;HK;ID;IR;IL" tvg-logo="" group-title="Sport",Swerve Sports (1080p)
+https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;DZ;AM;BH;BB;BG;KH;CL;DK;GR;SE;GB;VN" tvg-logo="" group-title="Sport",Trace Sports Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 1 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161887?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 2 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161883?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 3 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161886?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 4 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161885?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Super Sport 5 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161884?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",TRING SPORT 4
+http://cineapp.org:8000/Fernando/Fernando/9678?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/TringSport3HD.al.png" group-title="Sport",Tring Sport 3 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/55272?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="http://panel.tivix.eu/logo1/Albania/alblogo/TringSport4HD.al.png" group-title="Sport",Tring Sport 4 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/55273?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://i.imgur.com/mvNLE8f.png" group-title="Sport",Esports Max [Not 24/7]
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport",CBC Sport
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport",Матч! Арена
+http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport",Матч! Боец
+http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",ELEVEN SPORT 3
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports1NL.be.png" group-title="Sport",Eleven Sport 1 (FR)
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/135979?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports1NL.be.png" group-title="Sport",Eleven Sport 1 (FR)
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135979?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports1NL.be.png" group-title="Sport",Eleven Sport 1 (NL)
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/135978?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports1NL.be.png" group-title="Sport",Eleven Sport 1 (NL)
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135978?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports2FR.be.png" group-title="Sport",Eleven Sport 2 (BE)
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/135980?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports2FR.be.png" group-title="Sport",Eleven Sport 2 (BE)
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135980?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports1NL.be.png" group-title="Sport",Eleven Sports 1 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/135975?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports1NL.be.png" group-title="Sport",Eleven Sports 1 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135975?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports1NL.be.png" group-title="Sport",Eleven Sports 2 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/135976?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports1NL.be.png" group-title="Sport",Eleven Sports 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135976?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports1NL.be.png" group-title="Sport",Eleven Sports 3 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/135977?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports1NL.be.png" group-title="Sport",Eleven Sports 3 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135977?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",PLAY SPORTS 1
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/16098?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",PLAY SPORTS 2
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/16099?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",TRACE SPORT STARS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/6911?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",VOO SPORTS 2 FHD
+http://dontuse.offshorerev.cc:80/_yp2Vzm/Br1kqE2B3c/88958?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/VOOSport1nl.be.png" group-title="Sport",Voo Sport 1 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/73449?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/VOOSport1fr.be.png" group-title="Sport",Voo Sport World 1 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135972?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/VOOSport1fr.be.png" group-title="Sport",Voo Sport World 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135973?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/VOOSport1fr.be.png" group-title="Sport",Voo Sport World 2 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/135973?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/VOOSport1fr.be.png" group-title="Sport",Voo Sport World 3 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/135974?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/VOOSport1fr.be.png" group-title="Sport",Voo Sport World 3 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135974?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
+http://168.205.87.198:8555/live/1221/123456/148.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
+http://168.205.87.198:8555/live/1431/123456/148.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
+http://168.205.87.198:8555/live/michele/123456/148.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
+http://168.205.87.198:8555/live/JOSEE/123456/148.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1200px-BandSports_logo.svg.png" group-title="Sport",Band Sports
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159597?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/8042?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="Sport",ESPN 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159598?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Sport",ESPN 3 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159599?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="Sport",ESPN Extra HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159600?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="http://worldiptv.xyz/chlogos/ESPN.ar.png" group-title="Sport",Espn HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159601?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="http://worldiptv.xyz/chlogos/eurosport.jpg" group-title="Sport",Eurosport1 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159609?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.kindpng.com/picc/m/748-7484701_fox-sports-2-logo-png-fox-sports-2.png" group-title="Sport",Fox Sports 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159602?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Sport",Sportv  3 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159606?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/SporTV_2_logotipo.png" group-title="Sport",Sportv 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159605?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/SporTV_logo_2016.png/1024px-SporTV_logo_2016.png" group-title="Sport",Sportv HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159607?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="http://worldiptv.xyz/chlogos/AutoMotorSport.tr.png" group-title="Sport",Auto Motor Sport HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69613?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="http://worldiptv.xyz/chlogos/DiemaSport.bg.png" group-title="Sport",Diema Sport 1 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69537?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="http://worldiptv.xyz/chlogos/DiemaSport2.bg.png" group-title="Sport",Diema Sport 2 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69538?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",Diema Sport 2 HD
+http://78.83.191.18:8000/play/a077?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",Diema Sport 3 HD
+http://78.83.191.18:8000/play/a07e?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="http://worldiptv.xyz/chlogos/DiemaSport.bg.png" group-title="Sport",Diema Sport HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69539?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",Diema Sport HD
+http://78.83.191.18:8000/play/a076?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",Eurosport
+http://78.83.191.18:8000/play/a05y?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="http://worldiptv.xyz/chlogos/Eurosport1.tr.png" group-title="Sport",Eurosport 1 HD+
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69550?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",Eurosport 2
+http://78.83.191.18:8000/play/a04b?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="http://worldiptv.xyz/chlogos/Eurosport2.tr.png" group-title="Sport",Eurosport 2 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69551?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="http://worldiptv.xyz/chlogos/MAXSport1.bg.png" group-title="Sport",MAX Sport 1 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69644?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",MAX Sport 1 HD
+http://78.83.191.18:8000/play/a073?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",MAX Sport 2 HD
+http://78.83.191.18:8000/play/a074?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="http://worldiptv.xyz/chlogos/MAXSport3.bg.png" group-title="Sport",MAX Sport 3 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69645?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",MAX Sport 3 HD
+http://78.83.191.18:8000/play/a075?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="http://worldiptv.xyz/chlogos/MAXSport4.bg.png" group-title="Sport",MAX Sport 4 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69646?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",MAX Sport 4 HD
+http://78.83.191.18:8000/play/a07f?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="http://worldiptv.xyz/chlogos/MAXSport2.bg.png" group-title="Sport",Max Sport 2 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69577?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="http://worldiptv.xyz/chlogos/MAXSport2.bg.png" group-title="Sport",Max Sports 2 HD+
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69574?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",Nova Sport
+http://78.83.191.18:8000/play/a04a?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="http://worldiptv.xyz/chlogos/NOVAsport.bg.png" group-title="Sport",Nova Sport HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69590?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="http://worldiptv.xyz/chlogos/SportPlus.bg.png" group-title="Sport",Sport Plus HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69653?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="https://img2.sportal.bg/images/header/logo.png" group-title="Sport",Sportal HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69654?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Bein Sports CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sport.canada.ca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Bein Sports HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHVRmvqStYiAZb5NRAl1rj0/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/CMUHtv3.png" group-title="Sport",CanBangla TV (1080p) [Not 24/7]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Ginx eSports TV CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ginx.esports.tv.canada.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Golf Channel CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/golf.channel.canada.ca.m3u8?checkedby:iptvcat.com
 
 
