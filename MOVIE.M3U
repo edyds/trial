@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0, :: EDY ::
+#EXTINF:5853, VENOM carnage liberado | REGIOFLIX
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/228022/Venom.let.there.be.carnage.2021.1080p-dual-lat-srregio.net.mkv
