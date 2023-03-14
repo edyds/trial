@@ -1,3 +1,3 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="win sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png" group-title="sports  ",http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFAznTzOBQKLyI1nHDy_u1Fg/ts.
+#EXTINF: -1 group-title = "SPORTS", WIN
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFAznTzOBQKLyI1nHDy_u1Fg/ts
