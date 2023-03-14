@@ -1,3 +1,986 @@
 #EXTM3U
-#EXTINF:0 group-title = "SPORTS", WIN
+#EXTINF:0, WIN
+#EXTVLCOPT:network-caching=1000
 http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFAznTzOBQKLyI1nHDy_u1Fg/ts
+#EXTINF:0, WIN
+#EXTVLCOPT:network-caching=1000
+http://play.flamaplus.tv:80/play/A3GjJZJStYhvPIlSL3SOFAznTzOBQKLyI1nHDy_u1Fg/ts
+#EXTINF:0, Top Cine Latam
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/distroregio.php?token=SrRegio&c=top-cine-latam&f=.m3u8
+#EXTINF:0, Saber mas
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/distroregio.php?token=SrRegio&c=saber-mas&f=.m3u8
+#EXTINF:0, Tu Cine Latam
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/distroregio.php?token=SrRegio&c=tu-cine-latam&f=.m3u8
+#EXTINF:0, Flash
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/distroregio.php?token=SrRegio&c=flash-1&f=.m3u8
+#EXTINF:0, El conflicto TV
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/distroregio.php?token=SrRegio&c=el-conflicto-tv&f=.m3u8
+#EXTINF:0, Chiquilines
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/distroregio.php?token=SrRegio&c=chiquilines&f=.m3u8
+#EXTINF:0, Juntos
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/distroregio.php?token=SrRegio&c=juntos&f=.m3u8
+#EXTINF:0, Cine Sureno
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/distroregio.php?token=SrRegio&c=cine-sureno&f=.m3u8
+#EXTINF:0, Cine Real
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/distroregio.php?token=SrRegio&c=cine-real-latam&f=.m3u8
+#EXTINF:0, Casa Comedy
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/distroregio.php?token=SrRegio&c=casa-comedy&f=.m3u8
+#EXTINF:0, Spanglish
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/distroregio.php?token=SrRegio&c=spanglish&f=.m3u8
+#EXTINF:0, Euronews N
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/distroregio.php?token=SrRegio&c=euronews-spa&f=.m3u8
+#EXTINF:0, Horrorfy
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/distroregio.php?token=SrRegio&c=horrorfy&f=.m3u8
+#EXTINF:0, WappTV
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/distroregio.php?token=SrRegio&c=wapptv&f=.m3u8
+#EXTINF:0, MMC
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/distroregio.php?token=SrRegio&c=mmc&f=.m3u8
+#EXTINF:0, Glewed TV 
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/distroregio.php?token=SrRegio&c=glewedtv-spanish&f=.m3u8
+#EXTINF:0, ORIGEN TV SD EN 480P
+#EXTVLCOPT:network-caching=1000
+https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
+#EXTINF:0, ORIGEN TV SD EN 1080P
+#EXTVLCOPT:network-caching=1000
+https://tv.streaming-chile.com:1936/origentv2/origentv2/playlist.m3u8
+#EXTINF:0, Cine.AR
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/playpc.php?c=l1?ch=cinear
+#EXTINF:0, Mega Chile
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/playpc.php?c=l1?ch=mega_cl
+#EXTINF:0, RCN
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/playtop.php?c=dm?ch=rcn
+#EXTINF:0, Telecinco
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/pctvcode.php?c=/mt?ch=telecinco&f=.m3u8
+#EXTINF:0, TUDN US
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/playpir.php?c=univision?ch=tudn
+#EXTINF:0, TELEMUNDO PUERTO RICO
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/playpc.php?c=l1?ch=telemundo_pr
+#EXTINF:0, AZ UNO
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:0, AZ 7
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:0, MULTIMEDIOS MTY
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0, BEIN XTRA
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/pctvcode.php?c=/l1?ch=bein_xtra&f=.m3u8
+#EXTINF:0, BEIN XTRA N
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/pctvcode.php?c=/l1?ch=bein_xtra_n&f=.m3u8
+#EXTINF:0, Claro Sports
+#EXTVLCOPT:network-caching=1000
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+#EXTINF:0, ENERGEEK
+#EXTVLCOPT:network-caching=1000
+https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
+#EXTINF:0, ENERGEEK 2
+#EXTVLCOPT:network-caching=1000
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:0, ENERGEEK 3
+#EXTVLCOPT:network-caching=1000
+https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
+#EXTINF:0, LATINO KIDS
+#EXTVLCOPT:network-caching=1000
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
+#EXTINF:0, EL CHAVO TV
+#EXTVLCOPT:network-caching=1000
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
+#EXTINF:0, DREIKO TV
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/dreiko.php?f=.m3u8
+#EXTINF:0, MULTIMEDIOS MTY
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/multimedios.php?f=.m3u8
+#EXTINF:0, WOW TV
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/wowtv.php?f=.m3u8
+#EXTINF:0, NET TV
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/nettv.php?f=.m3u8
+#EXTINF:0, RT ESPANOL
+#EXTVLCOPT:network-caching=1000
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+#EXTINF:0, ESTRELLA TV
+#EXTVLCOPT:network-caching=1000
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:0, AZTECA UNO
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:0, AZTECA 7
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:0, AZTECA 7.2
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:0, ADN40
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:0, CANAL 26 AGUASCALIENTES
+#EXTVLCOPT:network-caching=1000
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+#EXTINF:0, VIDEOROLA
+#EXTVLCOPT:network-caching=1000
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
+#EXTINF:0, PAKA PAKA
+#EXTVLCOPT:network-caching=1000
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
+#EXTINF:0, REWIND TV
+#EXTVLCOPT:network-caching=1000
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+#EXTINF:0, La 2
+#EXTVLCOPT:network-caching=1000
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:0, LOCOMOTION
+#EXTVLCOPT:network-caching=1000
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:0, Telemundo NY
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/telemundo.php?token=SrRegio&c=telemundoNY&f=.m3u8
+#EXTINF:0, Telemundo CA
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/tmca.php?f=.m3u8
+#EXTINF:0, Telemundo LA
+#EXTVLCOPT:network-caching=1000
+https://v-la.mybtv.net/live/267.m3u8
+#EXTINF:0, AND40
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=2&f=.m3u8
+#EXTINF:0, AZ UNO
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=23&f=.m3u8
+#EXTINF:0, 34.1
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=44&f=.m3u8
+#EXTINF:0, LAS ESTRELLAS
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=52&f=.m3u8
+#EXTINF:0, CANAL 5
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=55&f=.m3u8
+#EXTINF:0, TELEMUNDO INTERNACIONAL
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=85&f=.m3u8
+#EXTINF:0, LAS ESTRELLAS
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=102&f=.m3u8
+#EXTINF:0, FORO TV
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=104&f=.m3u8
+#EXTINF:0, CANAL 5
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=105&f=.m3u8
+#EXTINF:0, AZTECA 7
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=107&f=.m3u8
+#EXTINF:0, TUDN
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=109&f=.m3u8
+#EXTINF:0, SPR
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=111&f=.m3u8
+#EXTINF:0, AZTECA UNO
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=113&f=.m3u8
+#EXTINF:0, BABY TV
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=116&f=.m3u8
+#EXTINF:0, GOLDEN
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=123&f=.m3u8
+#EXTINF:0, EUROPA
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=136&f=.m3u8
+#EXTINF:0, FILMS&ARTS
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=137&f=.m3u8
+#EXTINF:0, TELEFORMULA
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=161&f=.m3u8
+#EXTINF:0, CANAL 6
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=167&f=.m3u8
+#EXTINF:0, FOX SPORTS 3
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=178&f=.m3u8
+#EXTINF:0, GOLF
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=179&f=.m3u8
+#EXTINF:0, CNN
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=185&f=.m3u8
+#EXTINF:0, CNN ESP
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=187&f=.m3u8
+#EXTINF:0, FOX NEWS
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=188&f=.m3u8
+#EXTINF:0, BLOOMBERG
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=190&f=.m3u8
+#EXTINF:0, BBC WORLD NEWS
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=191&f=.m3u8
+#EXTINF:0, AL JAZEERA
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=192&f=.m3u8
+#EXTINF:0, NTN24
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=194&f=.m3u8
+#EXTINF:0, ANTENA 3 INT
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=199&f=.m3u8
+#EXTINF:0, STAR CHANNEL
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=201&f=.m3u8
+#EXTINF:0, SONY CHANNEL
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=203&f=.m3u8
+#EXTINF:0, WARNER CHANNEL
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=205&f=.m3u8
+#EXTINF:0, UNIVERSAL CHANNEL
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=207&f=.m3u8
+#EXTINF:0, FX
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=209&f=.m3u8
+#EXTINF:0, A&E
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=211&f=.m3u8
+#EXTINF:0, TRU TV
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=215&f=.m3u8
+#EXTINF:0, COMEDY CENTRAL
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=217&f=.m3u8
+#EXTINF:0, UNICABLE
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=218&f=.m3u8
+#EXTINF:0, HOLA TV
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=219&f=.m3u8
+#EXTINF:0, MAS CHIC
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=221&f=.m3u8
+#EXTINF:0, AZ CORAZON
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=250&f=.m3u8
+#EXTINF:0, E!
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=255&f=.m3u8
+#EXTINF:0, SYFY
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=257&f=.m3u8
+#EXTINF:0, TNT SERIES
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=266&f=.m3u8
+#EXTINF:0, GOURMET
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=268&f=.m3u8
+#EXTINF:0, GARAGE TV
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=269&f=.m3u8
+#EXTINF:0, GLITZ
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=270&f=.m3u8
+#EXTINF:0, DISTRITO COMEDIA
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=272&f=.m3u8
+#EXTINF:0, TBS
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=273&f=.m3u8
+#EXTINF:0, TLNOVELAS
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=275&f=.m3u8
+#EXTINF:0, AZ MUNDO
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=276&f=.m3u8
+#EXTINF:0, DISCOVERY KIDS
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=303&f=.m3u8
+#EXTINF:0, DSINEY JR
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=308&f=.m3u8
+#EXTINF:0, NICK JR
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=310&f=.m3u8
+#EXTINF:0, DISNEY CHANNEL
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=312&f=.m3u8
+#EXTINF:0, NICK MUSIC
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=314&f=.m3u8
+#EXTINF:0, NICK
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=315&f=.m3u8
+#EXTINF:0, CARTOON NETWORK
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=320&f=.m3u8
+#EXTINF:0, CARTOONITO
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=324&f=.m3u8
+#EXTINF:0, TOONCAST
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=328&f=.m3u8
+#EXTINF:0, D PELICULA
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=335&f=.m3u8
+#EXTINF:0, DISCOVERY THEATER
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=351&f=.m3u8
+#EXTINF:0, HISTORY
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=353&f=.m3u8
+#EXTINF:0, DISCOVERY WORLD
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=356&f=.m3u8
+#EXTINF:0, DISCOVERY CHANNEL
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=371&f=.m3u8
+#EXTINF:0, H&H
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=374&f=.m3u8
+#EXTINF:0, NAT GEO
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=377&f=.m3u8
+#EXTINF:0, LIFETIME
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=379&f=.m3u8
+#EXTINF:0, DISCOVERY SCIENCE
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=381&f=.m3u8
+#EXTINF:0, DESCONOCIDO
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=387&f=.m3u8
+#EXTINF:0, DESCONOCIDO
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=401&f=.m3u8
+#EXTINF:0, AZ CINEMA
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=425&f=.m3u8
+#EXTINF:0, CINECANAL
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=430&f=.m3u8
+#EXTINF:0, TNT
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=435&f=.m3u8
+#EXTINF:0, GOLDEN PLUS
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=436&f=.m3u8
+#EXTINF:0, D PELICULA PLUS
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=442&f=.m3u8
+#EXTINF:0, AMC
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=444&f=.m3u8
+#EXTINF:0, SPACE
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=445&f=.m3u8
+#EXTINF:0, MORBIDO
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=470&f=.m3u8
+#EXTINF:0, CINEMAX
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=481&f=.m3u8
+#EXTINF:0, GOLDEN EDGE
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=484&f=.m3u8
+#EXTINF:0, STUDIO UNIVERSAL
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=492&f=.m3u8
+#EXTINF:0, I SAT
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=495&f=.m3u8
+#EXTINF:0, TCM
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=496&f=.m3u8
+#EXTINF:0, ESPN XTRA
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=516&f=.m3u8
+#EXTINF:0, ESPN 3
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=520&f=.m3u8
+#EXTINF:0, FOX SPORTS
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=522&f=.m3u8
+#EXTINF:0, FOX SPORTS 2
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=527&f=.m3u8
+#EXTINF:0, PX SPORTS
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=528&f=.m3u8
+#EXTINF:0, ESPN 2
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=558&f=.m3u8
+#EXTINF:0, ESPN
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=561&f=.m3u8
+#EXTINF:0, AYM SPORTS
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=576&f=.m3u8
+#EXTINF:0, TVE
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=651&f=.m3u8
+#EXTINF:0, DW
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=654&f=.m3u8
+#EXTINF:0, MTV LIVE
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=701&f=.m3u8
+#EXTINF:0, TELEHIT MUSICA PLUS
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=702&f=.m3u8
+#EXTINF:0, MTV 00S
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=703&f=.m3u8
+#EXTINF:0, AZ CLIC
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=725&f=.m3u8
+#EXTINF:0, MTV
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=726&f=.m3u8
+#EXTINF:0, MTV HITS
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=727&f=.m3u8
+#EXTINF:0, MTV 80S
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=728&f=.m3u8
+#EXTINF:0, TELEHIT MUSICA
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=731&f=.m3u8
+#EXTINF:0, BANDAMAX
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=732&f=.m3u8
+#EXTINF:0, MTV 00S
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=735&f=.m3u8
+#EXTINF:0, GALICIA TV
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=802&f=.m3u8
+#EXTINF:0, RT
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=999&f=.m3u8
+#EXTINF:0, EXCELSIORTV
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=1449&f=.m3u8
+#EXTINF:0, NAT GEO
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=1640&f=.m3u8
+#EXTINF:0, PARAMUNT CHANNEL
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=1726&f=.m3u8
+#EXTINF:0, ADRENALINA SPORTS
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=1799&f=.m3u8
+#EXTINF:0, AZTECA 7
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=1822&f=.m3u8
+#EXTINF:0, ONCE
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=1825&f=.m3u8
+#EXTINF:0, NU9VE
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=1922&f=.m3u8
+#EXTINF:0, TELERITMO
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=1943&f=.m3u8
+#EXTINF:0, DESCONOCIDO
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=1977&f=.m3u8
+#EXTINF:0, BABY FIRST
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=1984&f=.m3u8
+#EXTINF:0, RT
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=2091&f=.m3u8
+#EXTINF:0, A3SERIES
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=2113&f=.m3u8
+#EXTINF:0, DESCONOCIDO
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=2130&f=.m3u8
+#EXTINF:0, FOOD NETWORK
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=2145&f=.m3u8
+#EXTINF:0, TEEN NICK
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=2147&f=.m3u8
+#EXTINF:0, MN
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=2156&f=.m3u8
+#EXTINF:0, TVC DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=2157&f=.m3u8
+#EXTINF:0, EL FINANCIERO
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=2167&f=.m3u8
+#EXTINF:0, DESCONOCIDO
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=2181&f=.m3u8
+#EXTINF:0, A+
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=2278&f=.m3u8
+#EXTINF:0, IMAGEN TV
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=2298&f=.m3u8
+#EXTINF:0, MULTIMEDIOS MTY
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=2316&f=.m3u8
+#EXTINF:0, TELEVISA MTY
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=2307&f=.m3u8
+#EXTINF:0, TELEVISA PUEBLA
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=2312&f=.m3u8
+#EXTINF:0, A MAS + MTY
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=2316&f=.m3u8
+#EXTINF:0, STAR TVE
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=2375&f=.m3u8
+#EXTINF:0, DISCOVERY ID
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=2376&f=.m3u8
+#EXTINF:0, ANIMAL PLANET
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=2378&f=.m3u8
+#EXTINF:0, DISCOVERY TURBO
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=2379&f=.m3u8
+#EXTINF:0, DESCONOCIDO
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=2380&f=.m3u8
+#EXTINF:0, FRANCE 24
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=2402&f=.m3u8
+#EXTINF:0, DESCONOCIDO
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=2404&f=.m3u8
+#EXTINF:0, AXN
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=2507&f=.m3u8
+#EXTINF:0, CLARO SPORTS
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=2564&f=.m3u8
+#EXTINF:0, FUEL TV
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=2587&f=.m3u8
+#EXTINF:0, BIT ME
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=2591&f=.m3u8
+#EXTINF:0, CURIOSITY STREAM
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=2594&f=.m3u8
+#EXTINF:0, HGTV
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=3105&f=.m3u8
+#EXTINF:0, A3CINE
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=3112&f=.m3u8
+#EXTINF:0, NIÑOS APRENDE
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=3115&f=.m3u8
+#EXTINF:0, UBEAT
+#EXTVLCOPT:network-caching=1000
+https://regioplay.xyz/php/SR_REGIO_013023_/tpnuevo02.php?tokennn=Regio&c=3135&f=.m3u8
+#EXTINF:0,  40 Y 20
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=340&pid=340&token=SrRegio&f=.m3u8
+#EXTINF:0,  Adrenalina Sport
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=393&pid=393&token=SrRegio&f=.m3u8
+#EXTINF:0,  Afizzionados
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=348&pid=348&token=SrRegio&f=.m3u8
+#EXTINF:0,  Alegrijes Y Rebujos
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=319&pid=319&token=SrRegio&f=.m3u8
+#EXTINF:0,  Amigas Y Rivales
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=320&pid=320&token=SrRegio&f=.m3u8
+#EXTINF:0,  Amores Verdaderos
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=305&pid=305&token=SrRegio&f=.m3u8
+#EXTINF:0,  Aqui Y Ahora
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=306&pid=306&token=SrRegio&f=.m3u8
+#EXTINF:0,  Atv+
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=258&pid=258&token=SrRegio&f=.m3u8
+#EXTINF:0,  Bandamax
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=400&pid=400&token=SrRegio&f=.m3u8
+#EXTINF:0,  Bein Sports Xtra
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=256&pid=256&token=SrRegio&f=.m3u8
+#EXTINF:0,  Bitme
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=401&pid=401&token=SrRegio&f=.m3u8
+#EXTINF:0,  Canal 5 (Mx)
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=351&pid=351&token=SrRegio&f=.m3u8
+#EXTINF:0,  Cine 1
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=307&pid=307&token=SrRegio&f=.m3u8
+#EXTINF:0,  Cine 2
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=308&pid=308&token=SrRegio&f=.m3u8
+#EXTINF:0,  Cine 3
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=309&pid=309&token=SrRegio&f=.m3u8
+#EXTINF:0,  Cine Club - Prendetv
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=192&pid=192&token=SrRegio&f=.m3u8
+#EXTINF:0,  Cine Del Ayer
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=429&pid=429&token=SrRegio&f=.m3u8
+#EXTINF:0,  Clase 406
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=322&pid=322&token=SrRegio&f=.m3u8
+#EXTINF:0,  Cnn Colombia
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=358&pid=358&token=SrRegio&f=.m3u8
+#EXTINF:0,  Comedy Tv
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=89&pid=89&token=SrRegio&f=.m3u8
+#EXTINF:0,  Como Dice El Dicho
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=341&pid=341&token=SrRegio&f=.m3u8
+#EXTINF:0,  Corazón Salvaje
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=325&pid=325&token=SrRegio&f=.m3u8
+#EXTINF:0,  Crónicas
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=315&pid=315&token=SrRegio&f=.m3u8
+#EXTINF:0,  Cuidado Con El Angel
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=316&pid=316&token=SrRegio&f=.m3u8
+#EXTINF:0,  Del Mercado Al Plato
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=317&pid=317&token=SrRegio&f=.m3u8
+#EXTINF:0,  Distrito Comedia
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=405&pid=405&token=SrRegio&f=.m3u8
+#EXTINF:0,  Dpeliculas
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=354&pid=354&token=SrRegio&f=.m3u8
+#EXTINF:0,  Dpeliculas +
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=404&pid=404&token=SrRegio&f=.m3u8
+#EXTINF:0,  Durmiendo Con Mi Jefe
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=312&pid=312&token=SrRegio&f=.m3u8
+#EXTINF:0,  El Privilegio De Mandar
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=313&pid=313&token=SrRegio&f=.m3u8
+#EXTINF:0,  Euronews
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=255&pid=255&token=SrRegio&f=.m3u8
+#EXTINF:0,  Failarmy
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=197&pid=197&token=SrRegio&f=.m3u8
+#EXTINF:0,  Familia P. Luche
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=311&pid=311&token=SrRegio&f=.m3u8
+#EXTINF:0,  Foro Tv
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=300&pid=300&token=SrRegio&f=.m3u8
+#EXTINF:0,  Fun Videos
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=121&pid=121&token=SrRegio&f=.m3u8
+#EXTINF:0,  Golden Edge
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=407&pid=407&token=SrRegio&f=.m3u8
+#EXTINF:0,  Golden Edge Sd
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=410&pid=410&token=SrRegio&f=.m3u8
+#EXTINF:0,  Golden Plus
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=414&pid=414&token=SrRegio&f=.m3u8
+#EXTINF:0,  Golden South
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=409&pid=409&token=SrRegio&f=.m3u8
+#EXTINF:0,  Golden South Sd
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=413&pid=413&token=SrRegio&f=.m3u8
+#EXTINF:0,  Héroes Del Norte
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=323&pid=323&token=SrRegio&f=.m3u8
+#EXTINF:0,  Juana La Virgen
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=327&pid=327&token=SrRegio&f=.m3u8
+#EXTINF:0,  Kids
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=355&pid=355&token=SrRegio&f=.m3u8
+#EXTINF:0,  La Promesa
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=343&pid=343&token=SrRegio&f=.m3u8
+#EXTINF:0,  La Rosa De Guadalupe
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=344&pid=344&token=SrRegio&f=.m3u8
+#EXTINF:0,  La Selecc10n
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=345&pid=345&token=SrRegio&f=.m3u8
+#EXTINF:0,  Las Estrellas
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=415&pid=415&token=SrRegio&f=.m3u8
+#EXTINF:0,  Latidos Music
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=257&pid=257&token=SrRegio&f=.m3u8
+#EXTINF:0,  Level Up - Games
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=263&pid=263&token=SrRegio&f=.m3u8
+#EXTINF:0,  Lo Mejor De La Liga Mx - Prendetv
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=193&pid=193&token=SrRegio&f=.m3u8
+#EXTINF:0,  Lo Que Diga El Corazon
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=346&pid=346&token=SrRegio&f=.m3u8
+#EXTINF:0,  Local View
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=402&pid=402&token=SrRegio&f=.m3u8
+#EXTINF:0,  Local View 2
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=403&pid=403&token=SrRegio&f=.m3u8
+#EXTINF:0,  Love Nature
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=390&pid=390&token=SrRegio&f=.m3u8
+#EXTINF:0,  María Mercedes
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=328&pid=328&token=SrRegio&f=.m3u8
+#EXTINF:0,  Media +
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=301&pid=301&token=SrRegio&f=.m3u8
+#EXTINF:0,  Mi Gorda Bella
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=334&pid=334&token=SrRegio&f=.m3u8
+#EXTINF:0,  Muchachitas
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=331&pid=331&token=SrRegio&f=.m3u8
+#EXTINF:0,  Muchachitas Como Tu
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=332&pid=332&token=SrRegio&f=.m3u8
+#EXTINF:0,  My Time Movies
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=261&pid=261&token=SrRegio&f=.m3u8
+#EXTINF:0,  Noticias Univision 24/7
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=254&pid=254&token=SrRegio&f=.m3u8
+#EXTINF:0,  Novelas De Oro - Prendetv
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=196&pid=196&token=SrRegio&f=.m3u8
+#EXTINF:0,  Novelas De Romance - Prendetv
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=194&pid=194&token=SrRegio&f=.m3u8
+#EXTINF:0,  Novelas En Familia - Prendetv
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=195&pid=195&token=SrRegio&f=.m3u8
+#EXTINF:0,  Nuestra Vision
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=262&pid=262&token=SrRegio&f=.m3u8
+#EXTINF:0,  GOlden
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=409&token=SrRegio&f=.m3u8
+#EXTINF:0,  GOlden +
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=406&token=SrRegio&f=.m3u8
+#EXTINF:0,  GOlden Edge
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=407&token=SrRegio&f=.m3u8
+#EXTINF:0,  GOlden Plus
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=410&token=SrRegio&f=.m3u8
+#EXTINF:0,  Papa A Toda Madre
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=336&pid=336&token=SrRegio&f=.m3u8
+#EXTINF:0,  People Are Awesome
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=39&pid=39&token=SrRegio&f=.m3u8
+#EXTINF:0,  Que Bonito Amor
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=329&pid=329&token=SrRegio&f=.m3u8
+#EXTINF:0,  Rcn Mas
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=286&pid=286&token=SrRegio&f=.m3u8
+#EXTINF:0,  Rebelde
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=335&pid=335&token=SrRegio&f=.m3u8
+#EXTINF:0,  Retro Peli
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=304&pid=304&token=SrRegio&f=.m3u8
+#EXTINF:0,  Revry-Lgbtq Tv
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=139&pid=139&token=SrRegio&f=.m3u8
+#EXTINF:0,  Sortilegio
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=337&pid=337&token=SrRegio&f=.m3u8
+#EXTINF:0,  Soy Tu Dueña
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=318&pid=318&token=SrRegio&f=.m3u8
+#EXTINF:0,  Soy Tu Dueña
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=339&pid=339&token=SrRegio&f=.m3u8
+#EXTINF:0,  Tele Musica
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=418&pid=418&token=SrRegio&f=.m3u8
+#EXTINF:0,  Tele Musica+
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=419&pid=419&token=SrRegio&f=.m3u8
+#EXTINF:0,  Telehit
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=417&pid=417&token=SrRegio&f=.m3u8
+#EXTINF:0,  Teresa
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=342&pid=342&token=SrRegio&f=.m3u8
+#EXTINF:0,  Teresa
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=324&pid=324&token=SrRegio&f=.m3u8
+#EXTINF:0,  The Weather Channel(Es)
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=431&pid=431&token=SrRegio&f=.m3u8
+#EXTINF:0,  The Weather Channel(Es) Hd
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=453&pid=453&token=SrRegio&f=.m3u8
+#EXTINF:0,  Tln Novelas
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=421&pid=421&token=SrRegio&f=.m3u8
+#EXTINF:0,  Tn23
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=259&pid=259&token=SrRegio&f=.m3u8
+#EXTINF:0,  Tres Veces Ana
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=321&pid=321&token=SrRegio&f=.m3u8
+#EXTINF:0,  Triunfo Del Amor
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=338&pid=338&token=SrRegio&f=.m3u8
+#EXTINF:0,  Tudn
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=373&pid=373&token=SrRegio&f=.m3u8
+#EXTINF:0,  Tudn
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=372&pid=372&token=SrRegio&f=.m3u8
+#EXTINF:0,  Tudn
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=376&pid=376&token=SrRegio&f=.m3u8
+#EXTINF:0,  Tudn
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=380&pid=380&token=SrRegio&f=.m3u8
+#EXTINF:0,  Tudn
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=375&pid=375&token=SrRegio&f=.m3u8
+#EXTINF:0,  Tudn
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=385&pid=385&token=SrRegio&f=.m3u8
+#EXTINF:0,  Tudn
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=386&pid=386&token=SrRegio&f=.m3u8
+#EXTINF:0,  Tudn
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=381&pid=381&token=SrRegio&f=.m3u8
+#EXTINF:0,  Tudn
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=379&pid=379&token=SrRegio&f=.m3u8
+#EXTINF:0,  Tudn
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=357&pid=357&token=SrRegio&f=.m3u8
+#EXTINF:0,  Tudn
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=347&pid=347&token=SrRegio&f=.m3u8
+#EXTINF:0,  Tudn
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=378&pid=378&token=SrRegio&f=.m3u8
+#EXTINF:0,  Tudn
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=383&pid=383&token=SrRegio&f=.m3u8
+#EXTINF:0,  Tudn
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=384&pid=384&token=SrRegio&f=.m3u8
+#EXTINF:0,  Tudn
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=377&pid=377&token=SrRegio&f=.m3u8
+#EXTINF:0,  Tudn
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=360&pid=360&token=SrRegio&f=.m3u8
+#EXTINF:0,  Tudn
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=374&pid=374&token=SrRegio&f=.m3u8
+#EXTINF:0,  Tv Venta
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=352&pid=352&token=SrRegio&f=.m3u8
+#EXTINF:0,  Unicable
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=423&pid=423&token=SrRegio&f=.m3u8
+#EXTINF:0,  Unknown 101
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=330&pid=330&token=SrRegio&f=.m3u8
+#EXTINF:0,  Unknown 262
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=446&pid=446&token=SrRegio&f=.m3u8
+#EXTINF:0,  Vecinos
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=314&pid=314&token=SrRegio&f=.m3u8
+#EXTINF:0,  Vevo
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=389&pid=389&token=SrRegio&f=.m3u8
+#EXTINF:0,  Vevo
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=388&pid=388&token=SrRegio&f=.m3u8
+#EXTINF:0,  Videos Chistosos
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=46&pid=46&token=SrRegio&f=.m3u8
+#EXTINF:0,  Videos Chistosos 2
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=49&pid=49&token=SrRegio&f=.m3u8
+#EXTINF:0,  Vivo Play
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=260&pid=260&token=SrRegio&f=.m3u8
+#EXTINF:0,  Cine 
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=449&pid=449&token=SrRegio&f=.m3u8
+#EXTINF:0,  Cine Sd
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=450&pid=450&token=SrRegio&f=.m3u8
+#EXTINF:0,  Cine Sd
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=451&pid=451&token=SrRegio&f=.m3u8
+#EXTINF:0,  Deportes
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=452&pid=452&token=SrRegio&f=.m3u8
+#EXTINF:0,  Novelas
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=445&pid=445&token=SrRegio&f=.m3u8
+#EXTINF:0,  Novelas Hd
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=448&pid=448&token=SrRegio&f=.m3u8
+#EXTINF:0,  Novelas Sd
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=447&pid=447&token=SrRegio&f=.m3u8
+#EXTINF:0,  Xh Derbez - Nosotros Los Guapos
+#EXTVLCOPT:network-caching=1000
+http://regioplay.xyz/php/SR_REGIO_013023_/vix.php?c=310&pid=310&token=SrRegio&f=.m3u8
+
