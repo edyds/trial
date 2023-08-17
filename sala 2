@@ -1,10 +1,6 @@
-#EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-
+#EXTM3U
+#EXT-X-ALLOW-CACHE:YES
+#PLAYLIST: Peliculas
 
-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJbQnTxEuxFDb4F_Um1hEuZFJQqtifWjooYIX
-
-6djnfVV1xMS769zlAao47V7Qh3DE9SrgzUoZCIYbNgfyWaXf0W0S_m6q4tptONuovUwLDMf3NP7Ugb0BYk0eiVT4Y2MyHSKqsFp3jt
-
-OstfNo2jCyQqLW0_UAK5tw56rJvEdMvnU12La7C4kuWffO-/s1600/poster%20guardianes%20de%20la%20galaxia%20vol
-
-%203-8.jpg" group-title="Pelicula - aventura", Aventura/Fantasía, guardianes de la galaxia: vol 3
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJbQnTxEuxFDb4F_Um1hEuZFJQqtifWjooYIX6djnfVV1xMS769zlAao47V7Qh3DE9SrgzUoZCIYbNgfyWaXf0W0S_m6q4tptONuovUwLDMf3NP7Ugb0BYk0eiVT4Y2MyHSKqsFp3jtOstfNo2jCyQqLW0_UAK5tw56rJvEdMvnU12La7C4kuWffO-/s1600/poster%20guardianes%20de%20la%20galaxia%20vol%203-8.jpg" group-title="Pelicula - aventura", Aventura/Fantasía, guardianes de la galaxia: vol 3
 file://192.168.1.4/Videos/Guardianes.De.La.Galaxia.Vol%203.2023.1080P.Dual.Lat.mp4
