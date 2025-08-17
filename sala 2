@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="movie " tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/Transcendence2014Poster.jpg" group-title=" cine fam ▶️",Tracendent
-http://192.168.56.1:8082/dune2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="movie" tvg-logo="https://www.hbomax.com/cl/es/movies/dune-part-two" group-title="cine fam ▶️",Dune Parte 2
+http://192.168.1.42:8082/dune2-h264.mp4
