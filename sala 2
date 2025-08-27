@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="movie" tvg-logo="https://www.hbomax.com/cl/es/movies/dune-part-two" group-title="cine fam ▶️",Dune Parte 2
-https://cdn-ubce3tf3nupwma8l.orbitcache.com/engine/hls2/01/15133/xkvbuxmmczxr_,n,.urlset/master.m3u8?t=g1QVA6ixWnixMZEUdD4biXeulhZE0J6Ws2UJImhShUA&s=1755485753&e=14400&f=75667460&node=mwwk/o+5snAlUX+4EbUIzJgnMITZlt0E8iZgcQjsG9o=&i=190.0&sp=2500&asn=27951&q=n&rq=Ko3UlxL8tPE0ee3O5sffn5hnwmceaqPI5UTR4ei0
+Control remoto multiplataforma: Integra comandos desde Colab para enviar instrucciones a tu Smart TV o emuladores Android vía red local. Puedes usar adb, pyautogui, o sockets personalizados.
 
